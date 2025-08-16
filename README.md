@@ -1,2 +1,2 @@
 # Extreme_computers_website
-Created a user friendly website for Extreme Workstation of Computers
+Created a user friendly website for Extreme Workstation of Computers using Html and Css 
